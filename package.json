@@ -7,13 +7,18 @@
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "format": "prettier --write **/*.{html,css,js,json,md}"
+    "format": "prettier --write **/*.{html,css,js,json,md}",
+    "serve": "serve"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.6.0",
     "commitlint": "^7.6.1",
     "husky": "^2.3.0",
     "lint-staged": "^8.1.7",
-    "prettier": "^1.17.1"
+    "prettier": "^1.17.1",
+    "serve": "^11.0.0"
+  },
+  "dependencies": {
+    "three": "^0.104.0"
   }
 }
