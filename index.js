@@ -5,7 +5,6 @@ import {
   BoxGeometry,
   Mesh,
   MeshBasicMaterial,
-  TextureLoader,
 } from 'three';
 
 let scene, camera, renderer, cube;
