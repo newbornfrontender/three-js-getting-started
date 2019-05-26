@@ -1,0 +1,9 @@
+{
+  "name": "three-js-getting-started",
+  "version": "1.0.0",
+  "description": "Getting started with Three.js",
+  "main": "index.js",
+  "repository": "git@github.com:newbornfrontender/three-js-getting-started.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
