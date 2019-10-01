@@ -11,8 +11,8 @@
     "serve": "serve"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "7.6.0",
-    "commitlint": "7.6.1",
+    "@commitlint/config-conventional": "8.2.0",
+    "commitlint": "8.2.0",
     "husky": "3.0.5",
     "lint-staged": "8.1.7",
     "prettier": "1.18.2",
